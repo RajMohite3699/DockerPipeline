@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        PROJECT_PATH = "E:/DockerJSP/exp2"
+        PROJECT_PATH = "D:\RajMohiteDevOP\DockerPipeline"
         IMAGE_NAME = "my-java-app"
         CONTAINER_NAME = "java-container"
     }
